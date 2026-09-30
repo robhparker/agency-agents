@@ -33,7 +33,7 @@ AGENTS=(
   engineering/engineering-frontend-developer.md
   engineering/engineering-software-architect.md
   engineering/engineering-code-reviewer.md
-  engineering/engineering-security-engineer.md
+  security/security-architect.md
   engineering/engineering-ai-engineer.md
   engineering/engineering-sre.md
   engineering/engineering-rapid-prototyper.md
