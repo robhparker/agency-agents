@@ -72,6 +72,15 @@ AGENTS=(
 
   # Marketing
   marketing/marketing-seo-specialist.md
+
+  # Security
+  security/security-appsec-engineer.md
+
+  # Paid Media
+  paid-media/paid-media-tracking-specialist.md
+  paid-media/paid-media-search-query-analyst.md
+  paid-media/paid-media-creative-strategist.md
+  paid-media/paid-media-ppc-strategist.md
 )
 
 # ── Usage ───────────────────────────────────────────────────────────────────────
