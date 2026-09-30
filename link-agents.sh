@@ -69,6 +69,9 @@ AGENTS=(
   # Design
   design/design-ux-architect.md
   design/design-ui-designer.md
+
+  # Marketing
+  marketing/marketing-seo-specialist.md
 )
 
 # ── Usage ───────────────────────────────────────────────────────────────────────
