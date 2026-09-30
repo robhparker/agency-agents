@@ -81,6 +81,8 @@ AGENTS=(
   paid-media/paid-media-search-query-analyst.md
   paid-media/paid-media-creative-strategist.md
   paid-media/paid-media-ppc-strategist.md
+  paid-media/paid-media-auditor.md
+  paid-media/paid-media-paid-social-strategist.md
 )
 
 # ── Usage ───────────────────────────────────────────────────────────────────────
